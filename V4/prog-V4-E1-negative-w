@@ -1,0 +1,7 @@
+60
+2
+DIV 4 2
+READ 0
+INC 20
+WRITE -7
+TRAP 3

@@ -1,0 +1,6 @@
+60
+2
+ADD 5 3
+SHIFT -2
+XOR 0 0
+TRAP 3

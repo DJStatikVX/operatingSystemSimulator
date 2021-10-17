@@ -1,0 +1,9 @@
+// prog-V3-E4
+60
+2
+TRAP 4
+ADD 10 -17
+TRAP 7
+TRAP 4
+TRAP 7
+TRAP 3

@@ -1,0 +1,8 @@
+// prog-V1-E12
+30
+10
+ADD 20 0
+INC 3
+TRAP 4
+INC 3
+TRAP 3

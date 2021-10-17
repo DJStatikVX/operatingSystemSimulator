@@ -1,0 +1,92 @@
+2c2
+< 20 messages loaded from file messagesSTD.txt
+---
+> 21 messages loaded from file messagesSTD.txt
+20a21,22
+> 	[0] New process [3 - SystemIdleProcess] moving to the [NEW] state
+> 	[0] Process [3] created from program [SystemIdleProcess]
+30d31
+< 	[0] New process [3 - SystemIdleProcess] moving to the [NEW] state
+39d39
+< 	[0] Process [3] created from program [SystemIdleProcess]
+68a69,70
+> 	[12] New process [0 - daemon1] moving to the [NEW] state
+> 	[12] Process [0] created from program [daemon1]
+78d79
+< 	[12] New process [0 - daemon1] moving to the [NEW] state
+87d87
+< 	[12] Process [0] created from program [daemon1]
+89a90,91
+> 	[12] New process [1 - daemon2] moving to the [NEW] state
+> 	[12] Process [1] created from program [daemon2]
+99d100
+< 	[12] New process [1 - daemon2] moving to the [NEW] state
+108d108
+< 	[12] Process [1] created from program [daemon2]
+110a111,112
+> 	[12] New process [2 - daemon3] moving to the [NEW] state
+> 	[12] Process [2] created from program [daemon3]
+120d121
+< 	[12] New process [2 - daemon3] moving to the [NEW] state
+129d129
+< 	[12] Process [2] created from program [daemon3]
+326c326
+< 		DAEMONS: [0,5], [1,5], [3,100]
+---
+> 		DAEMONS: [0,5], [3,100], [1,5]
+475c475
+< 		DAEMONS: [0,5], [1,5], [3,100]
+---
+> 		DAEMONS: [0,5], [3,100], [1,5]
+603c603
+< 		DAEMONS: [1,5], [0,5], [3,100]
+---
+> 		DAEMONS: [1,5], [3,100], [0,5]
+722c722
+< 		DAEMONS: [0,5], [1,5], [3,100]
+---
+> 		DAEMONS: [0,5], [3,100], [1,5]
+838c838
+< 		DAEMONS: [1,5], [0,5], [3,100]
+---
+> 		DAEMONS: [1,5], [3,100], [0,5]
+936c936
+< 		DAEMONS: [1,5], [0,5], [3,100]
+---
+> 		DAEMONS: [1,5], [3,100], [0,5]
+1026c1026
+< 		DAEMONS: [1,5], [0,5], [3,100]
+---
+> 		DAEMONS: [1,5], [3,100], [0,5]
+1113c1113
+< 		DAEMONS: [1,5], [0,5], [3,100]
+---
+> 		DAEMONS: [1,5], [3,100], [0,5]
+1182c1182
+< 		DAEMONS: [0,5], [1,5], [3,100]
+---
+> 		DAEMONS: [0,5], [3,100], [1,5]
+1243c1243
+< 		DAEMONS: [1,5], [0,5], [3,100]
+---
+> 		DAEMONS: [1,5], [3,100], [0,5]
+1300c1300
+< 		DAEMONS: [0,5], [1,5], [3,100]
+---
+> 		DAEMONS: [0,5], [3,100], [1,5]
+1322d1321
+< 	[497] Process [2 - daemon3] moving from the [EXECUTING] state to the [EXIT] state
+1339a1339
+> 	[497] Process [2 - daemon3] moving from the [EXECUTING] state to the [EXIT] state
+1512d1511
+< 	[586] Process [1 - daemon2] moving from the [EXECUTING] state to the [EXIT] state
+1529a1529
+> 	[586] Process [1 - daemon2] moving from the [EXECUTING] state to the [EXIT] state
+1563d1562
+< 	[606] Process [0 - daemon1] moving from the [EXECUTING] state to the [EXIT] state
+1580a1580
+> 	[606] Process [0 - daemon1] moving from the [EXECUTING] state to the [EXIT] state
+1604d1603
+< 	[616] Process [3 - SystemIdleProcess] moving from the [EXECUTING] state to the [EXIT] state
+1621a1621
+> 	[616] Process [3 - SystemIdleProcess] moving from the [EXECUTING] state to the [EXIT] state

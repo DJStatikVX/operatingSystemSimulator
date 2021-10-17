@@ -1,0 +1,7 @@
+// prog-V1-E16-halt
+30
+10
+ADD 20 0
+INC 3
+HALT
+TRAP 3

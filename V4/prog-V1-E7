@@ -1,0 +1,9 @@
+// prog-V1-E7
+5
+3
+ADD 20 0
+WRITE 99
+INC
+INC
+INC
+WRITE 99
